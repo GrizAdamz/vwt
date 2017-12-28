@@ -1,0 +1,10 @@
+title: whitneytycer
+#description: whitney's page
+
+show_downloads: "false"
+
+markdown: kramdown
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
